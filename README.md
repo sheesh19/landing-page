@@ -45,15 +45,18 @@ In pairs:
 | 2 | Find inspiration online
 | 3 | Start sketching your landing page on paper
 | 4 | Start adding to your `index.html` file
-| 5 | Ensure you have <head></head> and <body></body> tags
-| 6 | Put your HTML elements inside divs <div></divs>
-| 7 | Begin to put in content! Use <h1></h1>, <img>, <p></p> tags, etc.
-| 8 | When you're done with your content, give divs and tags `class` tags
+| 5 | Ensure you have `<head></head>` and `<body></body>` tags
+| 6 | Put your HTML elements inside divs `<div></divs>`
+| 7 | Begin to put in content! Use `<h1></h1>, <img>, <p></p>` tags, etc.
+| 8 | Link your sheet with the `<link rel="stylesheet" href="css/styles.css">` in the `<head>`
+
+| 9 | When you're done with your content, give divs and tags `class` tags
 
 |  |  |
 | ------ | ------ |
-| 8 | Navigate to CSS
-| 9 | End of the Day, deploy your website on https://www.netlify.com/
+| 8 | Navigate to `css` and `styles.css`
+| 9 | add class and styling for example `.class-name { color: blue }`
+| 10 | End of the Day, deploy your website on https://www.netlify.com/
 
 
 Or just copy this website: https://www.podandparcel.com.au/
@@ -62,7 +65,7 @@ Or just copy this website: https://www.podandparcel.com.au/
 | ------ | ------ |
 | 1 | Start sketching how the page looks like
 | 2 | Start adding the HTML
-| 3 | Put your HTML elements inside divs <div></divs>
+| 3 | Put your HTML elements inside divs `<div></divs>`
 | 4 | Start addding your CSS
 | 5 | End of the Day, deploy your website on https://www.netlify.com/
 
