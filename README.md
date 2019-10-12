@@ -6,12 +6,14 @@ In pairs:
 
 |  |  |
 | ------ | ------ |
-| 1 | decide on a business Idea (2mins)
-| 2 | Start sketching your landing Page
-| 3 | Start adding the HTML
-| 4 | Put your HTML elements inside divs <div></divs>
-| 5 | Start addding your CSS
-| 6 | End of the Day, deploy your website on https://www.netlify.com/
+| 1 | Decide on a business Idea (2 mins)
+| 2 | Find inspiration online
+| 3 | Start sketching your landing page on paper
+| 4 | Start adding the HTML
+| 5 | Put your HTML elements inside divs <div></divs>
+| 6 | Start addding your CSS
+| 7 | End of the Day, deploy your website on https://www.netlify.com/
+
 
 Or just copy this website: https://www.podandparcel.com.au/
 
@@ -25,7 +27,7 @@ Or just copy this website: https://www.podandparcel.com.au/
 
 |  |  |
 | ------ | ------ |
-| 1 | Homework, copy these components: https://dribbble.com/arthur-littm/buckets/1030911-Open-Component-Challenge 
+| 1 | Homework, copy these components: https://dribbble.com/arthur-littm/buckets/1030911-Open-Component-Challenge
 | 2 | OR just on Dribble: https://dribbble.com/
 
 <br/>
